@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/itemYourOrders"
+            android:icon="@drawable/order"
+            android:title="@string/your_order" />
+
+        <item
+            android:id="@+id/itemOrderStatus"
+            android:icon="@drawable/tracking"
+            android:title="@string/order_status" />
+
+        <item
+            android:id="@+id/itemCart"
+            android:iconTint="@color/colorPrimaryDark"
+            android:icon="@drawable/shopping_cart"
+            android:title="@string/cart" />
+
+<!--        <item-->
+<!--            android:id="@+id/itemDelAdd"-->
+<!--            android:icon="@drawable/address"-->
+<!--            android:title="@string/delivery_add" />-->
+
+<!--        <item-->
+<!--            android:id="@+id/itemLanguage"-->
+<!--            android:icon="@drawable/translate"-->
+<!--            android:iconTint="@color/colorPrimaryDark"-->
+<!--            android:title="@string/change_lang" />-->
+
+        <item
+            android:id="@+id/itemShare"
+            android:iconTint="@color/colorPrimaryDark"
+            android:icon="@drawable/share"
+            android:title="@string/share" />
+
+<!--        <item-->
+<!--            android:id="@+id/itemExit"-->
+<!--            android:icon="@drawable/ic_exit_to_app_black_24dp"-->
+<!--            android:title="@string/exit" />-->
+
+        <item
+            android:id="@+id/itemLogout"
+            android:icon="@drawable/logout"
+            android:title="@string/log_out" />
+
+    </group>
+</menu>

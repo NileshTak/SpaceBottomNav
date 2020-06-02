@@ -1,0 +1,513 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SpaceNav</string>
+
+
+
+    //Data
+
+    <string name="vegetable">Vegetables</string>
+    <string name="fruits">Fruits</string>
+    <string name="popular">Popular</string>
+    <string name="your_location">Your Location</string>
+    <string name="select_location">Select Address</string>
+    <string name="orders_delivered">Orders (Delivered)</string>
+    <string name="prod_name">Product Name</string>
+    <string name="orders_pending">Order Pending</string>
+    <string name="orders_accepted">Order Accepted</string>
+    <string name="orders_rejected">Order Rejected</string>
+
+    <string name="profile">Profile</string>
+    <string name="stock_warning">Product is Out Of Stock. Please check after sometime.</string>
+    <string name="continue_shop">Continue Shopping</string>
+    <string name="view_more">View More</string>
+    <string name="address">Address : </string>
+    <string name="landmark">Landmark : </string>
+    <string name="state">State : </string>
+    <string name="mobilenum">Mobile Number : </string>
+    <string name="acc_status">Account Status : </string>
+    <string name="similar_products">Similar Products</string>
+
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="search">Search</string>
+
+    <string name="warn_exit">Are you done Shopping ? Want to Exit this App ?</string>
+    <string name="cencel">Cancel</string>
+
+
+
+    //NAV MEnu
+
+    <string name="your_order">Your Orders</string>
+    <string name="order_status">Order Status</string>
+    <string name="cart">Cart</string>
+    <string name="share">Share</string>
+    <string name="delivery_add">Delivery Address</string>
+    <string name="change_lang">Change Language</string>
+    <string name="exit">Exit</string>
+    <string name="log_out">Log Out</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="action_favorite">Mark Favorite</string>
+    <string name="action_search" tools:ignore="ExtraTranslation">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_archieve">Archieve</string>
+    <string name="action_mail">Mail</string>
+    <string name="toggle_fab_string">Toggle Screen</string>
+    <string name="nav_item1">Item 1</string>
+    <string name="nav_item2">Item 2</string>
+    <string name="nav_item3">Item 3</string>
+    <string name="nav_item4">Item 4</string>
+    <string name="nav_item5">Item 5</string>
+    <string name="nav_item6">Item 6</string>
+    <string name="nav_item7">Item 7</string>
+    <string name="nav_item8">Item 8</string>
+    <string name="nav_item9">Item 9</string>
+    <string name="nav_item10">Item 10</string>
+    <string name="nav_item11">Item 11</string>
+    <string name="nav_item12">Item 12</string>
+    <string name="nav_item13">Item 13</string>
+
+
+    <string name="primary_screen_text">Primary Screen</string>
+    <string name="secondary_sceen_text">Secondary Screen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="cart_detail">CART DETAIL</string>
+    <string name="clear_all">Clear All</string>
+    <string name="complete_order">COMPLETE ORDER</string>
+    <string name="multiplier">X</string>
+    <string name="back_to_vitrin">BACK TO VITRIN</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="delete_all_orders">Are you sure you want to delete all orders?</string>
+    <string name="complete_order_question">"Are you sure you want to complete order?</string>
+    <string name="cart_clean">Your cart is as clean as the first day.</string>
+    <string name="sent_order">Your order has been successfully completed. :)</string>
+    <string name="failed_order">Something went wrong. :(</string>
+    <string name="sending_order">Your order is being completed, please wait.</string>
+
+
+    <string-array name="shopping_item">
+        <item>English</item>
+        <item>Marathi</item>
+        <item>Hindi</item>
+<!--        <item>Tamil</item>-->
+<!--        <item>Telgu</item>-->
+<!--        <item>Malyalam</item>-->
+<!--        <item>Kannada</item>-->
+<!--        <item>Gujarati</item>-->
+    </string-array>
+
+    <string-array name="shopping_days">
+        <item>5 Days</item>
+        <item>4 Days</item>
+        <item>3 Days</item>
+        <item>2 Days</item>
+        <item>1 Day</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>Select State</item>
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+        <item>Tamil Nadu</item>
+        <item>Hyderabad</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+    </string-array>
+
+
+    <string-array name="maharashraCity">
+        <item>Select City</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Nagpur</item>
+        <item>Aurangabad</item>
+        <item>Amravati</item>
+        <item>Nashik</item>
+        <item>Solapur</item>
+        <item>Navi Mumbai</item>
+        <item>Kolhapur</item>
+        <item>Panvel</item>
+        <item>Satara</item>
+        <item>Dhule</item>
+        <item>Akola</item>
+        <item>Jalgaon</item>
+        <item>Ahmednagar</item>
+        <item>Nagpur</item>
+        <item>Vasai</item>
+        <item>Virar</item>
+        <item>Bhiwandi</item>
+        <item>Sangli</item>
+        <item>Latur</item>
+        <item>Thane</item>
+        <item>Yavatmal</item>
+        <item>Beed</item>
+    </string-array>
+
+
+    <string-array name="gujaratCity">
+        <item>Select City</item>
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Rajkot</item>
+        <item>Bhavnagar</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Anand</item>
+        <item>Navsari</item>
+        <item>Surendranagar</item>
+        <item>Morvi</item>
+        <item>Dhule</item>
+        <item>Gandhidham</item>
+        <item>Nadiad</item>
+        <item>Bharuch</item>
+        <item>Porbandar</item>
+        <item>Bhuj</item>
+        <item>Patan</item>
+        <item>Gandhi Nagar</item>
+        <item>Veraval</item>
+        <item>Vapi</item>
+        <item>Morbi</item>
+        <item>Ankleshwar</item>
+        <item>Palanpur</item>
+        <item>Mehsana</item>
+        <item>Dwarka</item>
+        <item>Godhra</item>
+        <item>Palitana</item>
+        <item>Gondal</item>
+        <item>Valsad</item>
+        <item>Modasa</item>
+        <item>Dahod</item>
+        <item>Jambusar</item>
+        <item>Botad</item>
+        <item>Kheda</item>
+        <item>Visnagar</item>
+        <item>Tharad</item>
+        <item>Lathi</item>
+        <item>Limbdi</item>
+        <item>Talaji</item>
+        <item>Prantij</item>
+        <item>Mandvi</item>
+        <item>Jetpur</item>
+        <item>Deesa</item>
+        <item>Siddhpur</item>
+        <item>Vyara</item>
+        <item>Lunawada</item>
+        <item>Rajpipla</item>
+        <item>Kalol</item>
+        <item>Halol</item>
+        <item>Keshod</item>
+        <item>Ambaji</item>
+    </string-array>
+
+
+    <string-array name="tamilCity">
+        <item>Select City</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Madurai</item>
+        <item>Tiruchirappali</item>
+        <item>Salem</item>
+        <item>Tirunelveli</item>
+        <item>Vellore</item>
+        <item>Thoothukudi</item>
+        <item>Thanjavur</item>
+        <item>Ooty</item>
+        <item>Tiruppur</item>
+        <item>Erode</item>
+        <item>Dindigul</item>
+        <item>Pudukkottai</item>
+        <item>Tiruvannamalai</item>
+        <item>Kumbakonam</item>
+        <item>Nagercoil</item>
+        <item>Kanchipuram</item>
+        <item>Karur</item>
+        <item>Virudhunagar</item>
+        <item>Kodaikanal</item>
+        <item>Nagapattinam</item>
+        <item>Cuddalore</item>
+        <item>Sivaganga</item>
+        <item>Hosur</item>
+        <item>Dharmapuri</item>
+        <item>Karaikudi</item>
+        <item>Perambalur</item>
+        <item>Thiruvarur</item>
+        <item>Coonoor</item>
+        <item>Pollachi</item>
+        <item>Viluppuram</item>
+        <item>Vaniyambadi</item>
+        <item>Chidambaram</item>
+        <item>Sivakasi</item>
+        <item>Palani</item>
+        <item>Krishnagiri</item>
+        <item>Kanchipuram</item>
+        <item>Ambur</item>
+        <item>Kallakurichi</item>
+        <item>Theni</item>
+        <item>Vandavasi</item>
+        <item>Chengalpattu</item>
+        <item>Kanyakumari</item>
+        <item>Rajapalayam</item>
+        <item>Tenkasi</item>
+        <item>Pattukkotai</item>
+        <item>Tiruvallur</item>
+        <item>Namakkal</item>
+        <item>Ariyalur</item>
+    </string-array>
+
+
+    <string-array name="karnatakCity">
+        <item>Select City</item>
+        <item>Mangalore</item>
+        <item>Bengaluru</item>
+        <item>Ballari</item>
+        <item>Hubli</item>
+        <item>Vijayapura</item>
+        <item>Shivamogga</item>
+        <item>Mysuru</item>
+        <item>Tumakuru</item>
+        <item>Belgaum</item>
+        <item>Hosapete</item>
+        <item>Bidar</item>
+        <item>Udupi</item>
+        <item>Hassan</item>
+        <item>Chikmagalur</item>
+        <item>Gangavathi</item>
+        <item>Chitradurga</item>
+        <item>Bagalkot</item>
+        <item>Gadag</item>
+        <item>Ranebennur</item>
+        <item>Kolar</item>
+        <item>Mandya</item>
+        <item>Gulbarga</item>
+        <item>Davangere</item>
+        <item>Raichur</item>
+        <item>Bhadravathi</item>
+    </string-array>
+
+
+    <string-array name="keralaCity">
+        <item>Select City</item>
+        <item>Alleppey</item>
+        <item>Periyar</item>
+        <item>Cape Comorin</item>
+        <item>Anakkayam</item>
+        <item>Kadalundi</item>
+        <item>Kottayam</item>
+        <item>Neyyar Dam</item>
+        <item>Pamba</item>
+        <item>Peppara</item>
+        <item>Thalassery</item>
+        <item>Tirur</item>
+        <item>Vembanad Lake</item>
+        <item>Kochi</item>
+        <item>Tiruvananthapuram</item>
+        <item>Aranmula</item>
+        <item>Dharmadam Island</item>
+        <item>Kannur</item>
+        <item>Kozhikode</item>
+        <item>Ochira</item>
+        <item>Pandalam</item>
+        <item>Ponmudi</item>
+        <item>Thangasseri</item>
+        <item>Valapattanam</item>
+        <item>Mararikulam</item>
+        <item>Kovalam</item>
+        <item>Wayanad</item>
+        <item>Bekal</item>
+        <item>Edakkal</item>
+        <item>Kasargod</item>
+        <item>Kuthiramalika</item>
+        <item>Pakshipathalam</item>
+        <item>Kodungalloor</item>
+        <item>Pookot Lake</item>
+        <item>Thekkady</item>
+        <item>Valiyaparamba</item>
+        <item>Kumarakom</item>
+        <item>Idukki</item>
+        <item>Chennamangalam</item>
+        <item>Ernakulam</item>
+        <item>Malampuza</item>
+        <item>Palakkad</item>
+        <item>Pathiramanal</item>
+        <item>Ranipuram</item>
+        <item>Thurineli</item>
+        <item>Verkala</item>
+        <item>Agasthyakoodam</item>
+        <item>Munnar</item>
+        <item>Bhoothathanketu</item>
+        <item>Chinnar</item>
+        <item>Guruvayur</item>
+        <item>Kollam</item>
+        <item>Malappuram</item>
+        <item>Palaruvi</item>
+        <item>Payyambalam Beach</item>
+        <item>Sabrimala</item>
+        <item>Thrissur</item>
+        <item>Veli</item>
+    </string-array>
+
+
+    <string-array name="type">
+        <item>Select Type</item>
+        <item>Fruit</item>
+        <item>Vegetable</item>
+    </string-array>
+
+
+    <string-array name="size">
+        <item>Size</item>
+        <item>0gm</item>
+        <item>1gm</item>
+        <item>2gm</item>
+        <item>3gm</item>
+        <item>4gm</item>
+        <item>5gm</item>
+        <item>6gm</item>
+        <item>7gm</item>
+        <item>8gm</item>
+        <item>9gm</item>
+        <item>10gm</item>
+        <item>11gm</item>
+        <item>12gm</item>
+        <item>13gm</item>
+        <item>14gm</item>
+        <item>15gm</item>
+        <item>16gm</item>
+        <item>17gm</item>
+        <item>18gm</item>
+        <item>19gm</item>
+        <item>20gm</item>
+        <item>21gm</item>
+        <item>22gm</item>
+        <item>23gm</item>
+        <item>24gm</item>
+        <item>25gm</item>
+        <item>26gm</item>
+        <item>27gm</item>
+        <item>28gm</item>
+        <item>29gm</item>
+        <item>30gm</item>
+        <item>31gm</item>
+        <item>32gm</item>
+        <item>33gm</item>
+        <item>34gm</item>
+        <item>35gm</item>
+        <item>36gm</item>
+        <item>37gm</item>
+        <item>38gm</item>
+        <item>39gm</item>
+        <item>40gm</item>
+        <item>41gm</item>
+        <item>42gm</item>
+        <item>43gm</item>
+        <item>44gm</item>
+        <item>45gm</item>
+        <item>46gm</item>
+        <item>47gm</item>
+        <item>48gm</item>
+        <item>49gm</item>
+        <item>50gm</item>
+        <item>51gm</item>
+        <item>52gm</item>
+        <item>53gm</item>
+        <item>54gm</item>
+        <item>55gm</item>
+        <item>56gm</item>
+        <item>57gm</item>
+        <item>58gm</item>
+        <item>59gm</item>
+        <item>60gm</item>
+        <item>61gm</item>
+        <item>62gm</item>
+        <item>63gm</item>
+        <item>64gm</item>
+        <item>65gm</item>
+        <item>66gm</item>
+        <item>67gm</item>
+        <item>68gm</item>
+        <item>69gm</item>
+        <item>70gm</item>
+        <item>71gm</item>
+        <item>72gm</item>
+        <item>73gm</item>
+        <item>74gm</item>
+        <item>75gm</item>
+        <item>76gm</item>
+        <item>77gm</item>
+        <item>78gm</item>
+        <item>79gm</item>
+        <item>80gm</item>
+        <item>81gm</item>
+        <item>82gm</item>
+        <item>83gm</item>
+        <item>84gm</item>
+        <item>85gm</item>
+        <item>86gm</item>
+        <item>87gm</item>
+        <item>88gm</item>
+        <item>89gm</item>
+        <item>90gm</item>
+        <item>91gm</item>
+        <item>92gm</item>
+        <item>93gm</item>
+        <item>94gm</item>
+        <item>95gm</item>
+        <item>96gm</item>
+        <item>97gm</item>
+        <item>98gm</item>
+        <item>99gm</item>
+        <item>100gm</item>
+        <item>110gm</item>
+        <item>120gm</item>
+        <item>130gm</item>
+        <item>140gm</item>
+        <item>150gm</item>
+        <item>160gm</item>
+        <item>170gm</item>
+        <item>180gm</item>
+        <item>190gm</item>
+        <item>200gm</item>
+        <item>210gm</item>
+        <item>220gm</item>
+        <item>230gm</item>
+        <item>240gm</item>
+        <item>250gm</item>
+        <item>260gm</item>
+        <item>270gm</item>
+        <item>280gm</item>
+        <item>290gm</item>
+        <item>300gm</item>
+
+    </string-array>
+
+
+    <string-array name="stepsUserDetails">
+        <item>Beginning</item>
+        <item>End</item>
+    </string-array>
+
+</resources>
